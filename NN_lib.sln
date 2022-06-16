@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NN_lib", "NN_lib\NN_lib.csproj", "{FAE04DB1-9CEC-4E39-86D3-3BECE449656E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE04DB1-9CEC-4E39-86D3-3BECE449656E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE04DB1-9CEC-4E39-86D3-3BECE449656E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE04DB1-9CEC-4E39-86D3-3BECE449656E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE04DB1-9CEC-4E39-86D3-3BECE449656E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83BD33B-B9F5-4D31-8821-F2AB3EEB79DD}
+	EndGlobalSection
+EndGlobal
